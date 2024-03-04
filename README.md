@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kongkon Jowarder</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN STACK Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kongkon45&label=Profile%20views&color=0e75b6&style=flat" alt="kongkon45" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 💬 Ask me about **JavaScript, React and Redux Toolkit**
+- 💬 Ask me about ** React, Redux Toolkit, Express and MongoDB**
 
 - 📫 How to reach me **kongkon4545@gmail.com**
 
