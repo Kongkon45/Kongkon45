@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kongkon jowarder" target="blank"><img src="https://img.shields.io/twitter/follow/kongkon jowarder?logo=twitter&style=for-the-badge" alt="kongkon jowarder" /></a> </p>
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently learning **Socket.IO**
 
 - 💬 Ask me about **JavaScript, TypeScript, React, Next.Js and Redux Toolkit**
 
